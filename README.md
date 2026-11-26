@@ -1,7 +1,7 @@
 # 👨‍💻 Alexis Velásquez | Full Stack Software Developer
 
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Alexis Velásquez - Full Stack Software Developer"/>
+  <img src="./assets/github-banner-kalevelasquez.png" width="100%" alt="Alexis Velásquez - Full Stack Software Developer"/>
 </p>
 
 <p align="center">
